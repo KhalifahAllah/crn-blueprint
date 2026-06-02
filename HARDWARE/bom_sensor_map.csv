@@ -1,0 +1,9 @@
+﻿component_id,component_name,specification,telemetry_field,quantity_per_module,notes
+CTRL-01,ESP32-WROOM-32D,Dual-core 240MHz WiFi/BLE,system_uptime,1,Main edge compute node; deep sleep required
+SEC-01,ATECC608A,I2C Secure Element,vrfp_signature,1,Hardware-backed key storage for Ed25519 signing
+SEN-ORP,Soil ORP Probe,Analog (-500 to +500mV),soil_orp_mV,1,Calibrate for tropical loam
+SEN-PWR,INA219,High-side DC Current/Voltage,power_output_mW,1,Measures PMFC string output before DC-DC boost
+SEN-ENV,SHT40,Digital Temp/RH Sensor I2C,ambient_rh_percent / ambient_temp_c,1,Shaded enclosure required
+PWR-01,BQ25504 Energy Harvester,Ultra-low quiescent boost converter,N/A,1,Steps up raw PMFC voltage to charge buffer
+BAT-01,LiFePO4 12V Buffer,Small capacity pack with BMS,N/A,1,Provides burst energy for ESP32 telemetry transmission
+PMFC-01,Carbon felt anode & Stainless mesh cathode,0.5m2 effective area,N/A,1,Pre-treated; bury anode in rhizosphere
