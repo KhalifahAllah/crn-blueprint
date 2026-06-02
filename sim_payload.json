@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "ambient_rh_percent": 80.9,
+    "ambient_temp_c": 31.0,
+    "power_output_mW": 126.81,
+    "soil_orp_mV": -212.1,
+    "water_yield_L": 0.354
+  },
+  "node_id": "sj-taylors-alpha-01",
+  "timestamp": "2026-06-02T01:24:03.025628+00:00",
+  "vrfp_signature": "2ee858a570eb7ee61679e6b5125d7f3783e53839402f62cf3cf7048db05f0fa9e3d86a9d514619089a518ebbc1d7e0258b6f9584e48ded1b24a39806c1cd3900"
+}

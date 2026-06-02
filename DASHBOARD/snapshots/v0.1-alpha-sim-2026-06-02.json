@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-02",
+  "envelopes": [
+    {
+      "metrics": {
+        "ambient_rh_percent": 70.4,
+        "ambient_temp_c": 30.2,
+        "power_output_mW": 113.75,
+        "soil_orp_mV": -176.4,
+        "water_yield_L": 0.422
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025400+00:00",
+      "vrfp_signature": "9745e809e28ddf5ca8ac1390fbd6a854fe1e65e3b3406f0c6462103110603bc54cbe32b7136b6a86d5a71191fad4a20a0f9f8ef6b963656baf9104add80a530b"
+    },
+    {
+      "metrics": {
+        "ambient_rh_percent": 71.3,
+        "ambient_temp_c": 31.5,
+        "power_output_mW": 0.0,
+        "soil_orp_mV": -228.1,
+        "water_yield_L": 0.328
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025492+00:00",
+      "vrfp_signature": "7fc176269a246bdbac86d4501faf339059e0f87a8b7db9209471c76a7324298c11b9ccc66fee3ca6d6e0fd6e7598c4fde3db96a92b69499d54d4041af8c55407"
+    },
+    {
+      "metrics": {
+        "ambient_rh_percent": 73.0,
+        "ambient_temp_c": 27.1,
+        "power_output_mW": 132.49,
+        "soil_orp_mV": -228.0,
+        "water_yield_L": 0.374
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025531+00:00",
+      "vrfp_signature": "094f068e122a6749f719c3118fdbe3c473520dc97e5c47d581e1e220e363a0408b0394a08e78962afca34d6098a9a539b00d288fc034c2a96093cc37f112dd02"
+    },
+    {
+      "metrics": {
+        "ambient_rh_percent": 70.1,
+        "ambient_temp_c": 31.0,
+        "power_output_mW": 140.29,
+        "soil_orp_mV": -216.0,
+        "water_yield_L": 0.136
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025564+00:00",
+      "vrfp_signature": "0309d6ae1ac0c18fc2916ed494d79e22b0bc15bf82598f95475a3d53549db7e85b5e7fe8b98429f40ea8eb0de7538a66a04205ce29ac12c276ef5ee9e2ea2000"
+    },
+    {
+      "metrics": {
+        "ambient_rh_percent": 75.0,
+        "ambient_temp_c": 31.8,
+        "power_output_mW": 104.64,
+        "soil_orp_mV": -165.3,
+        "water_yield_L": 0.382
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025597+00:00",
+      "vrfp_signature": "bdf4c8798e1d002fabbc787fca90b5aaa478a18a0044cf4440c5806054610de4deff4312f23d77fe819828e799969a6fd13983b0aac3d984a720fb7e78cc770d"
+    },
+    {
+      "metrics": {
+        "ambient_rh_percent": 80.9,
+        "ambient_temp_c": 31.0,
+        "power_output_mW": 126.81,
+        "soil_orp_mV": -212.1,
+        "water_yield_L": 0.354
+      },
+      "node_id": "sj-taylors-alpha-01",
+      "timestamp": "2026-06-02T01:24:03.025628+00:00",
+      "vrfp_signature": "2ee858a570eb7ee61679e6b5125d7f3783e53839402f62cf3cf7048db05f0fa9e3d86a9d514619089a518ebbc1d7e0258b6f9584e48ded1b24a39806c1cd3900"
+    }
+  ],
+  "merkle_root": "67ffe8c4f51bc4bd77876b4b78f4a932e5241255dbb73e8865827cba96921a6c",
+  "node_id": "sj-taylors-alpha-01",
+  "verifying_key_hex": "5aab02a7ee662ac569fa2e472247ee3838dde328c301bd30cc687451a8521c5d"
+}

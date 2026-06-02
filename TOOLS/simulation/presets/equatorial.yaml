@@ -1,0 +1,21 @@
+﻿# TOOLS/simulation/presets/equatorial.yaml
+# Equatorial biome preset for Subang Jaya PoC
+ambient_temp_min: 27.0
+ambient_temp_max: 32.0
+ambient_rh_min: 70.0
+ambient_rh_max: 85.0
+
+# PMFC envelope (mW per module area baseline)
+pmfc_base_mW: 120.0
+pmfc_min_mW: 50.0
+pmfc_max_mW: 200.0
+pmfc_fluct_down: 20.0
+pmfc_fluct_up: 30.0
+
+# Soil ORP (mV)
+soil_orp_min_mV: -250.0
+soil_orp_max_mV: -150.0
+
+# MOF water yield per sample (L)
+water_yield_min_L: 0.05
+water_yield_max_L: 0.6
